@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JEFERSON-CASA\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JEFERSON-CASA\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JEFERSON-CASA\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\JEFERSON-CASA\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JEFERSON-CASA\\source\\repos\\CursoCSharp\\CursoCSharp\\obj\\",
+        "outputPath": "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JEFERSON-CASA\\AppData\\Roaming\\NuGet\\NuGet.Config",

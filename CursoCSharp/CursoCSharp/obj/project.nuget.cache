@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2O3yz1o3SEgd9qKxITqe+g03puDvphV3kFehrjmDdjQ5lfWB2F/1hQIqRd8wSG/0pXm1E2AIrM8+LvtgESJ5zw==",
+  "dgSpecHash": "nA5ZlGsTPmD6DmEo6M+RWUZa/fOMloL1MkTPs/DJURgO4zIHZhBQ4Nn9+B/1zZ+KvnpnmnlbeVod3Wl+DIuDqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JEFERSON-CASA\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+  "projectFilePath": "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
     "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
