@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturaDeControle;
+using CursoCSharp.ClassesEMetodos;
 
 
 namespace CursoCSharp {
@@ -11,20 +12,20 @@ namespace CursoCSharp {
             
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
-                {"Comentarios - Fundamentos", Comentarios.Executar},
-                {"VariaveisEConstantes - Fundamentos", VariaveisEConstantes.Executar},
-                {"Inferencia - Fundamentos", Inferencia.Executar},
+                {"Comentários - Fundamentos", Comentarios.Executar},
+                {"Variáveis E Constantes - Fundamentos", VariaveisEConstantes.Executar},
+                {"Inferência - Fundamentos", Inferencia.Executar},
                 {"Interpolação - Fundamentos", Interpolacao.Executar},
-                {"NotacaoPonto - Fundamentos", NotacaoPonto.Executar},
-                {"LendoDados - Fundamentos", LendoDados.Executar},
-                {"FormatandoNumero - Fundamentos", FormantandoNumero.Executar},
-                {"Conversoes - Fundamentos", Conversoes.Executar},
-                {"Operadores Aritimeticos - Fundamentos", OperadoresAritimeticos.Executar},
+                {"Notacão Ponto - Fundamentos", NotacaoPonto.Executar},
+                {"Lendo Dados - Fundamentos", LendoDados.Executar},
+                {"Formatando Número - Fundamentos", FormantandoNumero.Executar},
+                {"Conversões - Fundamentos", Conversoes.Executar},
+                {"Operadores Aritiméticos - Fundamentos", OperadoresAritimeticos.Executar},
                 { "Operadores Relacionais - Fundamentos", OperadoresRelacionais.Executar },
-                { "Operadores Logicos - Fundamentos", OperadoresLogicos.Executar },
+                { "Operadores Lógicos - Fundamentos", OperadoresLogicos.Executar },
                 { "Operadores Atribuição - Fundamentos", OperadoresAtribuicao.Executar },
-                { "Operadores Unarios - Fundamentos", OperadoresUnarios.Executar },
-                { "Operadores Ternarios - Fundamentos", OperadorTernario.Executar },
+                { "Operadores Unários - Fundamentos", OperadoresUnarios.Executar },
+                { "Operadores Ternários - Fundamentos", OperadorTernario.Executar },
 
                //Estrutura de controle
                 { "Estrutura If - Estrutura de Controle ", EstruturaIf.Executar },
@@ -35,14 +36,24 @@ namespace CursoCSharp {
                 { "Estrutura Do While - Estrutura de Controle ", EstruturaDoWhile.Executar },
                 { "Estrutura For - Estrutura de Controle ", EstruturaFor.Executar },
                 { "Estrutura Foreach - Estrutura de Controle ", EstruturaForeach.Executar },
-                { "Usando Break - Estrutura de Controle ", EstruturaUsandoBreak.Executar }
+                { "Usando Break - Estrutura de Controle ", EstruturaUsandoBreak.Executar },
                 
-           
-            
-            
-            
-            
-            
+                
+                // Classes e Métodos
+                { "Membros - Classes e Métodos", Membros.Executar },
+                { "Construtores - Classes e Métodos", Construtores.Executar },
+                { "Métodos com Retorno - Classes e Métodos", MetodosComRetorno.Executar },
+                { "Métodos Estáticos - Classes e Métodos", MetodosEstaticos.Executar },
+                { "Atributos Estáticos - Classes e Métodos", AtributosEstaticos.Executar },
+                { "Desafio Atributo - Classes e Métodos", DesafioAtributo.Executar },
+                { "Params - Classes e Métodos", Params.Executar },
+                { "Parametros Nomeados - Classes e Métodos", ParametrosNomeados.Executar }
+
+
+
+
+
+
             });
 
             central.SelecionarEExecutar();
