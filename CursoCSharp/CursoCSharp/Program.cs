@@ -9,7 +9,7 @@ using CursoCSharp.ClassesEMetodos;
 namespace CursoCSharp {
     class Program {
         static void Main(string[] args) {
-            
+
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentários - Fundamentos", Comentarios.Executar},
@@ -47,14 +47,26 @@ namespace CursoCSharp {
                 { "Atributos Estáticos - Classes e Métodos", AtributosEstaticos.Executar },
                 { "Desafio Atributo - Classes e Métodos", DesafioAtributo.Executar },
                 { "Params - Classes e Métodos", Params.Executar },
-                { "Parametros Nomeados - Classes e Métodos", ParametrosNomeados.Executar }
+                { "Parametros Nomeados - Classes e Métodos", ParametrosNomeados.Executar },
+                { "Get Set - Classes e Métodos", GetSet.Executar },
+                { "Props - Classes e Métodos", Props.Executar },
+                { "Readonly - Classes e Métodos", Readonly.Executar },
+                { "Enum - Classes e Métodos", ExemploEnum.Executar },
+                { "Struct - Classes e Métodos", ExemploStruct.Executar },
+                { "Struct vs Classe - Classes e Métodos", StructVsClasse.Executar },
+                { "Valor vs Referência - Classes e Métodos", ValorVsReferencia.Executar },
+                { "Paramêtros Por Referência - Classes e Métodos", ParametrosPorReferencia.Executar },
+                { "Paramêtro Padrão - Classes e Métodos", ParametroPadrao.Executar },
+                
+                // Coleções 
+                { "Array - Coleções", Colecoes.Array.Executar },
+                { "Coleções List - Coleções", Colecoes.ColecoesList.Executar }
 
 
 
 
 
-
-            });
+            }) ;
 
             central.SelecionarEExecutar();
         }
