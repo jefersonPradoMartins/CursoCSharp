@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmE7Y/0qN1kIJyaaY706UC/6nZsEtDGHnKdsy80BbXAQw3LsnVCsyBhYLnJhwfg4YWwDzCqJk7ihr3buDuli5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

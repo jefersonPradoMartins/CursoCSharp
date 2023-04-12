@@ -60,7 +60,21 @@ namespace CursoCSharp {
                 
                 // Coleções 
                 { "Array - Coleções", Colecoes.Array.Executar },
-                { "Coleções List - Coleções", Colecoes.ColecoesList.Executar }
+                { "Coleções List - Coleções", Colecoes.ColecoesList.Executar },
+                { "Coleções ArrayList - Coleções", Colecoes.ColecoesArrayList.Executar },
+                { "Coleções Set - Coleções", Colecoes.ColecoesSet.Executar },
+                { "Coleções Queue - Coleções", Colecoes.ColecoesQueue.Executar },
+                { "Igualdade - Coleções", Colecoes.Igualdade.Executar },
+                { "Stack - Coleções", Colecoes.ColecoesStack.Executar },
+                { "Dictionary - Coleções", Colecoes.ColecoesDictionary.Executar },
+                
+                // Orientação a Objetos
+                { "Herança - Orientação a Objetos", OO.Heranca.Executar },
+                { "Contrutor This - Orientação a Objetos", OO.ConstrutorThis.Executar },
+                { "Encapsulamento - Orientação a Objetos", OO.Encapsulamento.Executar },
+                { "Polimorfismo - Orientação a Objetos", OO.Polimorfismo.Executar },
+                { "Abstract - Orientação a Objetos", OO.Abstract.Executar },
+                { "Interface - Orientação a Objetos", OO.Interface.Executar }
 
 
 

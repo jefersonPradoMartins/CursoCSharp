@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Encapsulamento/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Encapsulamento.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Encapsulamento.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Encapsulamento/1.0.0": {
+      "type": "project",
+      "path": "../Encapsulamento/Encapsulamento.csproj",
+      "msbuildProject": "../Encapsulamento/Encapsulamento.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Encapsulamento >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
+              "projectPath": "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -59,19 +82,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.15, 6.0.15]"
+            "version": "[6.0.16, 6.0.16]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.15, 6.0.15]"
+            "version": "[6.0.16, 6.0.16]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.15, 6.0.15]"
+            "version": "[6.0.16, 6.0.16]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.15, 6.0.15]"
+            "version": "[6.0.16, 6.0.16]"
           }
         ],
         "frameworkReferences": {
@@ -79,7 +102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
       }
     }
   }

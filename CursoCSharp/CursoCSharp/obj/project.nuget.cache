@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nA5ZlGsTPmD6DmEo6M+RWUZa/fOMloL1MkTPs/DJURgO4zIHZhBQ4Nn9+B/1zZ+KvnpnmnlbeVod3Wl+DIuDqQ==",
+  "dgSpecHash": "iTZmacwCkROV7AwhJHh5bZJ2ebx0QjYqKPCAMadeW+aIauXwLgPcdemiG2Hp3owdGjGmalzJSHO5oZHjPT4zxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }
