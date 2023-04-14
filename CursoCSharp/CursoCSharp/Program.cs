@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturaDeControle;
 using CursoCSharp.ClassesEMetodos;
-
+using CursoCSharp.MetodosEFuncoes;
 
 namespace CursoCSharp {
     class Program {
@@ -74,9 +74,18 @@ namespace CursoCSharp {
                 { "Encapsulamento - Orientação a Objetos", OO.Encapsulamento.Executar },
                 { "Polimorfismo - Orientação a Objetos", OO.Polimorfismo.Executar },
                 { "Abstract - Orientação a Objetos", OO.Abstract.Executar },
-                { "Interface - Orientação a Objetos", OO.Interface.Executar }
+                { "Interface - Orientação a Objetos", OO.Interface.Executar },
 
+                //Métodos e funções
+                { "Exemplo Lambda - Métodos e funções", ExemploLambda.Executar },
+                { "Lambda com Delegate - Métodos e funções", LambdasDelegate.Executar },
+                { "Usando Delegates - Métodos e funções", UsandoDelegates.Executar },
+                { "Delegates Anônimos - Métodos e funções", DelegateFunAnonima.Executar },
+                { "Delegates com Parâmetros - Métodos e funções", DelegatesComParametros.Executar },
+               
 
+                //Exções 
+                 { "Delegates com Parâmetros - Métodos e funções", DelegatesComParametros.Executar }
 
 
 
