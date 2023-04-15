@@ -5,6 +5,9 @@ using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturaDeControle;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.MetodosEFuncoes;
+using CursoCSharp.Excecoes;
+using CursoCSharp.Api;
+using CursoCSharp.TopicosAvancados;
 
 namespace CursoCSharp {
     class Program {
@@ -85,7 +88,23 @@ namespace CursoCSharp {
                
 
                 //Exções 
-                 { "Delegates com Parâmetros - Métodos e funções", DelegatesComParametros.Executar }
+                 { "Primeira Exceção- Exceções", PrimeiraExcecao.Executar },
+                 { "Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar },
+
+                //Api
+                  { "Primeiro Arquivo - Api", PrimeiroArquivo.Executar },
+                  { "Lendo Arquivo - Api", LendoArquivo.Executar },
+                  { "Exemplo File Info - Api", ExemploFileInfo.Executar },
+                  { "Diretorios - Api", Diretorios.Executar },
+                  { "Exemplo Diretorios Info - Api", ExemploDirectoryInfo.Executar },
+                  { "Exemplo Path - Api", ExemploPath.Executar },
+                  { "Exemplo DateTime - Api", ExemploDateTime.Executar },
+
+                  //Tópicos Avançados
+                  { "LINQ #01 - Tópicos Avançados", LINQ1.Executar },
+                  { "LINQ #02 - Tópicos Avançados", LINQ2.Executar },
+                  { "Nullables - Tópicos Avançados", Nullables.Executar },
+                  { "Genéricos  - Tópicos Avançados", Genericos.Executar }
 
 
 
