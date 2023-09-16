@@ -1,10 +1,5 @@
-﻿using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CursoCSharp.Api {
+﻿namespace CursoCSharp.Api
+{
     internal class Diretorios {
        // C:\Users\JEFERSON-CASA\projeto\CursoCSharp\CursoCSharp.sln
         public static void Executar() {

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CursoCSharp.Colecoes {
+﻿namespace CursoCSharp.Colecoes {
     internal class Igualdade {
 
         public static void Executar() {
@@ -14,11 +8,7 @@ namespace CursoCSharp.Colecoes {
             Console.WriteLine(p1.Equals(p2));
             Console.WriteLine(p1 == p2);
             // resultado é false, pois esta comparando o endereço 
-            // da memoria
-
-
-
-            
+            // da memoria          
 
         }
     }

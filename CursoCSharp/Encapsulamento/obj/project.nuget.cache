@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z5qP7pfxTLqhFYTcINbWUIRdRVKNNTKQRXE99AJk/53RSwmjLRRlwlg0/VnM/VKO+CQJI1SSXdBdNImXWxGjug==",
+  "dgSpecHash": "0FuQhnW62sQjJr5YkYoZx2NfkpC3Pd2jpb/NsaDJKmkHNMM1WOdLJcXvPis9YLlRN2g4DgzE/7RI5FeVK6Wp1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Jerso peida dinterin\\source\\repos\\c# basico\\CursoCSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

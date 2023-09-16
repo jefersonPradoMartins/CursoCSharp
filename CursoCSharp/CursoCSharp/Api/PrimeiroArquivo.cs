@@ -1,10 +1,4 @@
-﻿using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CursoCSharp.Api {
+﻿namespace CursoCSharp.Api {
     public static class ExtensaoString { 
     public static string ParseHome(this string path) {
         string home = (Environment.OSVersion.Platform == PlatformID.Unix ||

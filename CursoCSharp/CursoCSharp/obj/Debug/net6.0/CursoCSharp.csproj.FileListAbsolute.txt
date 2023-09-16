@@ -31,3 +31,21 @@ C:\Users\JEFERSON-CASA\projeto\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\Curs
 C:\Users\JEFERSON-CASA\projeto\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
 C:\Users\JEFERSON-CASA\projeto\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
 C:\Users\JEFERSON-CASA\projeto\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\Jerso peida dinterin\source\repos\c# basico\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll

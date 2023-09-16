@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CursoCSharp.Colecoes {
+﻿namespace CursoCSharp.Colecoes {
     internal class Array {
 
         public static void Executar() {
@@ -15,7 +9,6 @@ namespace CursoCSharp.Colecoes {
             alunos[2] = "Renan";
             alunos[3] = "Lela";
             alunos[4] = "Jeferson";
-
 
             foreach(var aluno in alunos) {
                 Console.WriteLine(aluno);
@@ -34,8 +27,6 @@ namespace CursoCSharp.Colecoes {
             char[] letas = { 'a', 'b', 'c' };
             string palavra = new string(letas);
             Console.WriteLine(palavra);
-
-
         }
     }
 }

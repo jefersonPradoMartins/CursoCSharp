@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iTZmacwCkROV7AwhJHh5bZJ2ebx0QjYqKPCAMadeW+aIauXwLgPcdemiG2Hp3owdGjGmalzJSHO5oZHjPT4zxA==",
+  "dgSpecHash": "ZeAsKK7YxInjnEL5zoKmf8/WTp94q1uqxktE8IkMDr1SAQFCLeStWzlxOTrUcN1ZZgrw9Uej+HDKPaCjUPW/Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JEFERSON-CASA\\projeto\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\JEFERSON-CASA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Jerso peida dinterin\\source\\repos\\c# basico\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

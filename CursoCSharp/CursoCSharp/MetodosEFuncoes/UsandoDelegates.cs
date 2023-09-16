@@ -31,8 +31,6 @@ namespace CursoCSharp.MetodosEFuncoes {
 
             Action<double,double> op4 = MeuImprimirSoma;
             op4(6,6);
-
-
         }
     }
 }

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CursoCSharp.Colecoes {
+﻿namespace CursoCSharp.Colecoes {
     internal class ColecoesSet {
 
         public static void Executar() {
